@@ -34,7 +34,7 @@ Users should be able to:
 
 ## Link
 
-- [Live](https://irs-mp.github.io/profile-card/) 👀
+- [Live](https://irs-mp.github.io/four-card/) 👀
 
 ## Built with
 
